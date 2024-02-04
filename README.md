@@ -1,3 +1,3 @@
-# PortLibCpp
+# PortLibC
 
-Data types and classes for cross-platform C++ projects
+Data types and classes for cross-platform C projects
